@@ -9,5 +9,5 @@ function saveName() {
 
     localStorage.setItem('firstName', firstName);
     localStorage.setItem('lastName', lastName);
-    window.location.href = '2.Vid.html';
+    window.location.href = 'https://impanda9.github.io/2Vid/';
 }
